@@ -1,0 +1,5 @@
+
+export const BUY_ICECREAM = 'BUY_ICECREAM'
+export const STOCK_ICECREAM = 'STOCK_ICECREAM'
+
+
